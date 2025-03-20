@@ -1,2 +1,2 @@
-Turotial
+Tutorial
 ========
